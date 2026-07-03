@@ -1,0 +1,13 @@
+[project]
+name = "mini-tests"
+version = "0.1.0"
+description = "Mini-tests for quantum-chemistry graduate student"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.0",
+    "pyscf>=2.13.1",
+    "scipy>=1.18.0",
+]
