@@ -10,4 +10,5 @@ dependencies = [
     "numpy>=2.5.0",
     "pyscf>=2.13.1",
     "scipy>=1.18.0",
+    "zquatev @ git+https://github.com/sunqm/zquatev",
 ]
